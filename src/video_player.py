@@ -330,4 +330,3 @@ class VideoPlayer:
             elif not chosen_vid.flagged:
                 print("Cannot remove flag from video: Video is not flagged")
 
-        #print("allow_video needs implementation")
